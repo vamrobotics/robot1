@@ -1,7 +1,8 @@
 # robot1
 
 Main requirements:
-- Adafruit Trinket M0
+
+- Adafruit Trinket M0 (Using a Raspberry Pi is now possible, through a tcp/ip connection, wired or wireless)
 - MG995R servo
 - Micro usb data capable cable
 - 5V(>=2A) power supply ideally, (but probably not below 5V(1A) due to the 1.2A stall current draw of the servo)
